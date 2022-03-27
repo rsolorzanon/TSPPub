@@ -1,0 +1,20 @@
+{
+  "A": {
+    "name": "1577 North Decatur Road",
+    "capital": "1577 North Decatur Road",
+    "lat": "33.788159",
+    "long": "-84.326143"
+  },
+  "B": {
+    "name": "2211 Allaire Ln NE",
+    "capital": "2211 Allaire Ln NE",
+    "lat": "33.848837",
+    "long": "-84.297121"
+  },
+  "C": {
+    "name": "136 Flora Ave NE,136 Flora Ave NE",
+    "capital": "136 Flora Ave NE,136 Flora Ave NE",
+    "lat": "33.757329",
+    "long": "-84.343832"
+  }
+}
